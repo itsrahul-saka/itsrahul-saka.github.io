@@ -1,0 +1,2 @@
+Recovery note
+The public repository's original index.html was inspected and its content structure is represented in the redesign. The original style.css and script.js raw endpoints could not be retrieved by the available read-only web interface; a direct git clone was also blocked by the execution environment's DNS/network restrictions. Keep your GitHub history as the authoritative full backup before replacing repository files.
